@@ -1,0 +1,4 @@
+Model,Precision (No Reincidente),Precision (Reincidente),Recall (No Reincidente),Recall (Reincidente),F1-Score (No Reincidente),F1-Score (Reincidente),AUC-ROC,Falsos Positivos,Falsos Negativos
+COMPAS,0.62,0.71,0.9,0.32,0.74,0.44,0.61,654,304
+Regresión Logística 1,0.72,0.59,0.61,0.7,0.66,0.64,0.75,473,285
+Regresión Logística 2,0.6869125090383225,0.6713554987212276,0.7870753935376967,0.5480167014613778,0.7335907335907336,0.6034482758620688,0.7430926588636573,257,433
