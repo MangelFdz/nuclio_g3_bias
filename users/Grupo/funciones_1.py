@@ -4,6 +4,7 @@ import seaborn as sns
 import random
 import plotly.express as px
 import matplotlib.pyplot as plt
+import matplotlib.ticker as ticker
 from sklearn.metrics import confusion_matrix, roc_curve, auc, accuracy_score, classification_report, ConfusionMatrixDisplay, precision_score, recall_score, f1_score, accuracy_score
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
